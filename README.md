@@ -1,6 +1,6 @@
 # rocklov web with Robot Framework 🤖
 
-Testes da webapp Rocklov utilizando a lib [Browser](https://marketsquare.github.io/robotframework-browser/versions/Browser-7.0.0.html) do Robot.
+Testes da webapp Rocklov utilizando a lib [Browser](https://github.com/MarketSquare/robotframework-browser) do Robot.
 
 ## try it out ‍🚀
 Install [Python](https://www.python.org/) and [NodeJS](https://nodejs.org/en/)
