@@ -13,7 +13,7 @@ from the commandline:
 3. `pip install robotframework-browser`
 4. `rfbrowser init`
 
-then youre done to run the tests. Use `robot -d ./<your-logs-dir> tests/ `
+then youre ready for run the tests. Use `robot -d ./<your-logs-dir> tests/ `
 
 🙃
 
