@@ -16,11 +16,3 @@ from the commandline:
 then youre ready to run the tests. Use `robot -d ./<your-logs-dir> tests/ `
 
 🙃
-
-
-
-
-
-
-
-
