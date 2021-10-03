@@ -1,0 +1,10 @@
+{"level":30,"time":"2021-10-03T02:32:25.784Z","pid":13480,"hostname":"LAPTOP-VTG6UUSV","msg":"Listening on 63095"}
+{"level":30,"time":"2021-10-03T02:32:31.382Z","pid":13480,"hostname":"LAPTOP-VTG6UUSV","msg":"Changed active context"}
+{"level":30,"time":"2021-10-03T02:32:32.487Z","pid":13480,"hostname":"LAPTOP-VTG6UUSV","msg":"Video path: undefined"}
+{"level":30,"time":"2021-10-03T02:32:32.488Z","pid":13480,"hostname":"LAPTOP-VTG6UUSV","msg":"Changed active page"}
+{"level":30,"time":"2021-10-03T02:32:43.409Z","pid":13480,"hostname":"LAPTOP-VTG6UUSV","msg":"Changed active context"}
+{"level":30,"time":"2021-10-03T02:32:43.409Z","pid":13480,"hostname":"LAPTOP-VTG6UUSV","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-03T02:32:43.410Z","pid":13480,"hostname":"LAPTOP-VTG6UUSV","msg":"Changed active page"}
+{"level":30,"time":"2021-10-03T02:32:43.432Z","pid":13480,"hostname":"LAPTOP-VTG6UUSV","msg":"Changed active context"}
+{"level":30,"time":"2021-10-03T02:32:43.432Z","pid":13480,"hostname":"LAPTOP-VTG6UUSV","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-03T02:32:43.432Z","pid":13480,"hostname":"LAPTOP-VTG6UUSV","msg":"Changed active page"}
